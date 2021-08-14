@@ -17,23 +17,7 @@ webiste.https://nafiztech.netlify.app/ | YouTube code.py | Discord Nafiz亗Tech#
 
 
 Languages and Tools:
-Visual Studio CodeHTML5CSS3SassJavaScriptPythonReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
-
-
-
-📺 Latest YouTube Videos
-
-⭐ BONUS: Code News Shorts - Tailwind Just in Time Tutorial
-
-VS Code Anywhere! Use THIS Trick to get GitHub Codespaces NOW!
-
-4 Steps to Make $Millions with an API 💰, Don't Miss THIS!
-
-⭐ BONUS: Code News Shorts - Top 10 programming languages to learn in 2022
-
-StackOverflow Survey 2021 Results! 📊, Java Roadmap 🚘, Build a Budget App in Python 🐍 // Code News
-
-➡️ more videos...
+Visual Studio Code HTML CSS Javascript Python Github Node.json Rust
 
 ⚡ Recent GitHub Activity
 ⚡ GitHub Stats
