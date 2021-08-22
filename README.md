@@ -13,7 +13,7 @@ I'm a Student, Developer, and Problem Solver!!
 ⚡ Fun fact: My hobbies are soccer, painting, programming
 
 Connect with me:
-webiste.https://nafiztech.netlify.app/ | YouTube code.py | Discord Nafiz亗Tech#5556 |
+webiste. | YouTube code.py | Discord Nafiz亗Tech#5556 |
 
 
 Languages and Tools:
