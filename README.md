@@ -2,7 +2,7 @@ Hi there, I'm Nafiz - aka NafizTech 👋
 
 I'm a Student, Developer, and Problem Solver!!
 
-🔭 I just launched my first web: https://nafiztech.netlify.app/
+🔭 I just launched my website: 
 
 🌱 I’m currently learning javascript
 
