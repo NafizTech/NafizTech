@@ -2,7 +2,7 @@ Hi there, I'm Nafiz - aka NafizTech 👋
 
 I'm a Student, Developer, and Problem Solver!!
 
-🔭 I just launched my website: 
+🔭 I  launched my website: EduFord-Universities
 
 🌱 I’m currently learning javascript
 
@@ -13,7 +13,7 @@ I'm a Student, Developer, and Problem Solver!!
 ⚡ Fun fact: My hobbies are soccer, painting, programming
 
 Connect with me:
-website. | YouTube code.py | Discord Nafiz亗Tech#5556 |
+website.NafizTech-Universities | YouTube code.py | Discord Nafiz亗Tech#5556 |
 
 
 Languages and Tools:
